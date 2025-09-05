@@ -1,0 +1,9 @@
+beautifulsoup4
+langdetect
+nltk
+numpy
+pandas
+scikit-learn
+spacy
+vaderSentiment
+requests
