@@ -1,7 +1,7 @@
 # text-classification
 Text Processing and Analysis
 
-## ✨ Features
+## Features
 
 The project demonstrates the following core NLP tasks:
 
@@ -26,7 +26,7 @@ The project demonstrates the following core NLP tasks:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
     text-classification/
       ├── NLP_Assignment_KNU.py # Main Python script with all problems
